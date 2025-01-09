@@ -1,0 +1,2 @@
+Tag and Elements: Element contains opening tag, content and closing tag ex. <h1> Content </h1>
+Headings h1,h2, h3,h4,h5,h6 [no h7]
